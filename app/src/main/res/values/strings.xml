@@ -1,3 +1,18 @@
 <resources>
-    <string name="app_name">Assessmen 1</string>
+    <string name="app_name">Hitung Uang</string>
+    <string name="tambah">Selamat Datang!</string>
+    <string name="saldo_awal">Saldo Awal</string>
+    <string name="pemasukan">Pemasukan</string>
+    <string name="pengeluaran">Pengeluaran</string>
+    <string name="hitung">Hitung</string>
+    <string name="hasil_x">Saldo saat ini : Rp %1$.2f</string>
+    <string name="input_invalid">Tidak boleh kosong</string>
+    <string name="reset">Reset</string>
+    <string name="bagikan_template">Saldo Awal: %1$s Rp\nPemasukan: %2$s Rp\nPengeluaran: %3$s\nSaldo saat ini: %5$.2f Rp</string>
+    <string name="bagikan">Bagikan</string>
+    <string name="tanggal">Tanggal</string>
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="copyright">Hitung uang merupakan sebuah aplikasi Android untuk menghitung jumlah uang sehingga seseorang dapat mengetahui saldo uang saat ini. \n\nCopyright </string>
+    <string name="kembali">Kembali</string>
+    <string name="gambar">Gambar %1$s</string>
 </resources>
